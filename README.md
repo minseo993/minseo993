@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm CHO MINSEO, a student at Gachon University.
 
 <!--
 **minseo993/minseo993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
